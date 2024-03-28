@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# CARZero
-=======
 # CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification
 
 CARZero (**C**ross-attention **A**lignment for **R**adiology **Zero**-Shot Classification) is a pioneering multimodal representation learning framework designed for enhancing medical image recognition with minimal labeling effort. It leverages the power of cross-attention mechanisms to intelligently align disparate data modalities, facilitating label-efficient learning and accurate classification in the medical imaging domain.
@@ -88,7 +84,3 @@ sh train.sh
 #### Acknowledgements
 
 Our sincere thanks to the contributors of [MAE](https://github.com/RL4M/MRM-pytorch), [M3AE](https://github.com/zhjohnchan/M3AE), and [BERT](https://github.com/dhlee347/pytorchic-bert) for their foundational work, which greatly facilitated the development of CARZero.
->>>>>>> d968ad2 (Initial commit)
-=======
-# CARZero
->>>>>>> 7a1102797b20f74dd55de424dacd9bc6752c5014
