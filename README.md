@@ -73,10 +73,11 @@ sh train.sh
 ### Citation
 
 ```
-@article{lai2024carzero,
-  title={CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification},
+@inproceedings{lai2024carzero,
+  title={Carzero: Cross-attention alignment for radiology zero-shot classification},
   author={Lai, Haoran and Yao, Qingsong and Jiang, Zihang and Wang, Rongsheng and He, Zhiyang and Tao, Xiaodong and Zhou, S Kevin},
-  journal={arXiv preprint arXiv:2402.17417},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11137--11146},
   year={2024}
 }
 ```
