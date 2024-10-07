@@ -23,7 +23,7 @@ random.seed(10)
 
 _MODELS = {
     "CARZero_resnet50": "",
-    "CARZero_vit_b_16": ".pretrain_model/CARZero_best_model.ckpt",
+    "CARZero_vit_b_16": "./pretrain_model/CARZero_best_model.ckpt",
 }
 
 
